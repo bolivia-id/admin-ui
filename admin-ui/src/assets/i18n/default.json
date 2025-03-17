@@ -34,7 +34,7 @@
       "name": "Spanish",
       "nativeName": "Española",
       "locale": "es_ES"
-    }
+    },
     "es": {
       "name": "Spanish",
       "nativeName": "Española",
@@ -48,7 +48,8 @@
     "hin": "hi",
     "tam": "ta",
     "kan": "kn",
-     "spa": "es"
+    "spa": "es"
+    "es": "es"
   },
   "masterdataMapping" :{
     "blocklisted-words": {
