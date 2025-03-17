@@ -35,6 +35,11 @@
       "nativeName": "Española",
       "locale": "es_ES"
     }
+    "es": {
+      "name": "Spanish",
+      "nativeName": "Española",
+      "locale": "es_ES"
+    }
   },
   "keyboardMapping" :{
     "eng": "en",
